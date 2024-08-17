@@ -1,6 +1,6 @@
 package com.zyh.design.creational.factory.example;
 
-import com.zyh.design.creational.factory.Phone;
+import com.zyh.design.creational.factory.model.Phone;
 import com.zyh.design.creational.factory.factory.SimplePhoneFactory;
 
 /**

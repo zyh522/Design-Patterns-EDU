@@ -1,4 +1,4 @@
-package com.zyh.design.creational.factory;
+package com.zyh.design.creational.factory.model;
 
 /**
  * @author zhuyh

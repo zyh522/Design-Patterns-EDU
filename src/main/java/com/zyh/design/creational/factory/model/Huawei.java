@@ -1,7 +1,5 @@
 package com.zyh.design.creational.factory.model;
 
-import com.zyh.design.creational.factory.Phone;
-
 /**
  * @author zhuyh
  * @version v1.0
