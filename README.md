@@ -12,5 +12,6 @@
             ----singleton           单例模式
     ----behavioral
     ----structural
+            ----adapter             适配器模式
 
 --- 
