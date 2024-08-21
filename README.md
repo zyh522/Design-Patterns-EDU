@@ -15,5 +15,6 @@
     ----structural
             ----adapter             适配器模式
             ----bridge              桥接模式
+            ----facade              外观模式
 
 --- 
